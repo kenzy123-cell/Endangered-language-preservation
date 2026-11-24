@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="wBMiZbm-MKq35Lb1EyFM">
+    <mxGraphModel dx="1512" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" value="Linguist" vertex="1">
+          <mxGeometry height="60" width="40" x="80" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" value=":&lt;b&gt;System&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-3" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#EEEEEE;fontColor=default;" target="14-BLkyk4LIymk5ZxbJa-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="680" as="sourcePoint" />
+            <mxPoint x="380" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-4" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="680" as="sourcePoint" />
+            <mxPoint x="100" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="160" as="sourcePoint" />
+            <mxPoint x="580" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-6" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;startArrow=classicThin;startFill=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="200" as="sourcePoint" />
+            <mxPoint x="580" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="confirmation: lessonCreated" vertex="1">
+          <mxGeometry height="30" width="180" x="260" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="createLesson(title)" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="280" as="sourcePoint" />
+            <mxPoint x="580" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;startArrow=classicThin;startFill=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="320" as="sourcePoint" />
+            <mxPoint x="580" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-11" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" value="loop" vertex="1">
+          <mxGeometry height="120" width="780" x="-120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="&lt;b&gt;[for each dictionary word to add]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="-110" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="confirmation: dictionaryEntryAdded" vertex="1">
+          <mxGeometry height="25" width="200" x="260" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="addDictionaryEntry(word)" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="440" as="sourcePoint" />
+            <mxPoint x="580" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-16" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;startArrow=classicThin;startFill=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="520" as="sourcePoint" />
+            <mxPoint x="580" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="addRecording(recordingID)" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-18" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;startArrow=classicThin;startFill=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100" y="600" as="sourcePoint" />
+            <mxPoint x="580" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="confirmation:recordingAdded" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="error: recording not allowed" vertex="1">
+          <mxGeometry height="30" width="180" x="260" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-21" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" value="loop" vertex="1">
+          <mxGeometry height="270" width="780" x="-120" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-22" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;labelBackgroundColor=none;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" value="alt" vertex="1">
+          <mxGeometry height="160" width="680" x="-40" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="&lt;b&gt;[for each recording to add]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="-105" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-28" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;curved=1;strokeColor=#EEEEEE;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-40" y="560" as="sourcePoint" />
+            <mxPoint x="640" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=#182E3E;" value="&lt;b&gt;[recording is allowed]&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="-40" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=#182E3E;" value="[no education consent or learners not allowed to hear it]" vertex="1">
+          <mxGeometry height="30" width="130" x="-35" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="14-BLkyk4LIymk5ZxbJa-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#182E3E;" value="&lt;b&gt;SSD UC37 CREATE LESSON&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="255" y="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
